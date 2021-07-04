@@ -47,4 +47,9 @@ app.*.map.json
 
 # Work in progress
 /lib/modules/
-/lib/shared
+/lib/modules/create_account/
+/lib/modules/get_started/
+/lib/modules/login/
+/lib/modules/reset_password/
+/lib/shared/
+/lib/shared/widgets/input_text
