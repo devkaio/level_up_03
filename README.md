@@ -3,13 +3,15 @@
 ## MyNotes  
 Elegant Login UI built with Flutter in the Raro Academy Training.  
   
-## Result  
+## Result
+<center>
 <p float="left">  
-  <img src="screenshots/pic_1.png" width="250" />  
-  <img src="screenshots/pic_2.png" width="250" />   
-  <img src="screenshots/pic_3.png" width="250" />  
-  <img src="screenshots/pic_4.png" width="250" />  
-</p>  
+  <img src="screenshots/pic_1.png" width="350" />  
+  <img src="screenshots/pic_2.png" width="350" />   
+  <img src="screenshots/pic_3.png" width="350" />  
+  <img src="screenshots/pic_4.png" width="350" />  
+</p>
+</center>  
 
 ## Screens  
 - Get Started  
