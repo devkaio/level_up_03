@@ -51,5 +51,7 @@ app.*.map.json
 /lib/modules/get_started/
 /lib/modules/login/
 /lib/modules/reset_password/
-/lib/shared/
 /lib/shared/widgets/input_text
+/lib/shared/widgets/button/
+/lib/shared/widgets/text/
+/lib/shared/validators/
