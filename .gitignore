@@ -44,10 +44,3 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-
-# Work in progress
-/lib/modules/
-/lib/modules/create_account/
-/lib/modules/get_started/
-/lib/modules/login/
-/lib/modules/reset_password/
